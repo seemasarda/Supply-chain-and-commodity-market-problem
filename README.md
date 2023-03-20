@@ -1,3 +1,4 @@
 # supply-chain-problem
 
-Solved few problems of a supply chain industry using MYSQL
+Solved few problems for a supply chain and coomodities industries  using MYSQL
+
